@@ -18,7 +18,7 @@ function MiiCreatorLayout() {
     eyes: "eyes-01",
     mouth: "mouth-01",
     nose: "nose-01",
-    hair: "hair-0",
+    hair: "hair-1",
     eyebrows: "eyebrows-01",
     glasses: "glasses-01",
     facehair: "facehair-01",
